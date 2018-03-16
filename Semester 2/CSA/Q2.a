@@ -1,0 +1,28 @@
+
+ Start:
+	CLA
+	CLE
+	CMA
+	CME
+	CLA
+	CLE
+
+	CIR
+	CIL
+	INC
+
+	SPA
+	INC
+
+	SNA
+	INC
+
+	SZA
+	INC
+
+	SZE
+	INC
+
+	HLT
+
+	

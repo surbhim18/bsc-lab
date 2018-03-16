@@ -1,0 +1,8 @@
+
+Start:
+	Read
+	STORE a 0
+	Stop
+
+
+ a: .data 2 0

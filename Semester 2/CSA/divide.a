@@ -1,0 +1,9 @@
+
+Start: Read 
+       STORE a
+       Read
+       DIVIDE a
+       STORE a
+       Write
+       Stop
+a: .data 2 0

@@ -1,0 +1,63 @@
+;MACHINE 5 
+;set PC to O24 (hex) initially
+
+ Start:
+	RR 2048 1	;Read a
+	STA a   0
+	RR 2048 1	;Read b
+	STA b   0
+
+
+ MIN:
+	LDA b    0
+	RR  512  0	;complement AC
+	ADD one    0	;Add data at 0th memory location ie 1
+	ADD a    0	; a-b is now in AC
+	RR  8    0	;next ins is skipped if AC is -ve
+	BUN bMIN 0	; set value of b as minimum
+	BUN aMIN 0	;set value of a as minimum
+
+ MUL:
+	LDA min	0
+	RR  4   0	;next ins is skipped if AC is 0 ie min is 0
+	BUN ADDITION	0	
+	
+	LDA result  0	
+	RR 1024     1	;print result
+	RR 1	    0	;set-halt-bit
+
+ ADDITION:
+	LDA max		0
+	ADD result      0
+	STA result	0
+
+	LDA min	 0
+	ADD mOne 0
+	STA min  0
+
+	BUN MUL 0
+
+ aMIN:
+	LDA a	0
+	STA min	0
+	LDA b	0
+	STA max	0
+	BUN MUL	0
+
+ bMIN:
+	LDA b	0
+	STA min 0
+        LDA a	0
+	STA max	0
+	BUN MUL	0
+
+ a:   .data 2 0
+ b:   .data 2 0
+ min: .data 2 0
+ max: .data 2 0
+ result: .data 2 0
+ one: .data 2 1
+ mOne: .data 2 -1
+ 	
+	
+	

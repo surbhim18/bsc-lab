@@ -1,0 +1,22 @@
+
+ Start:
+	RR 2048 0	;clear AC
+	STA sum 0	;store sum as 0
+	BUN CHECK 0	;jump to label CHECK
+
+ CHECK:
+	RR 2048 1	;input
+	
+	RR 0004 0	;skip next instruction if AC=0
+	BUN CALSUM 0	;jump to label CALSUM
+
+	LDA sum	0	;load sum into AC
+	RR 1024 1	;output the result
+	RR 0001 0	;set halt bit
+
+ CALSUM:
+	ADD sum	0	;add sum
+	STA sum	0	;store the sum
+	BUN CHECK 0	;jump to label CHECK
+
+ sum: .data 2 0

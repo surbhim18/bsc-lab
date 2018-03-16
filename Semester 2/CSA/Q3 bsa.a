@@ -1,0 +1,9 @@
+ 
+  Start:    BSA jumpHere 0
+	    Write
+	    Stop
+
+  jumpHere: Read
+	    BUN 0 1
+
+	

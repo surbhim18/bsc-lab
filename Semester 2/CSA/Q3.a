@@ -1,0 +1,26 @@
+
+Start:
+	ADD a
+
+	AND a
+
+	ISZ b
+	Read
+
+	Write
+	
+	BUN Check
+	Write
+
+
+Check:
+	Read
+	STORE a
+	LOAD a
+	Write
+
+	Stop
+ 	
+
+a: .data 2 0
+b: .data 2 0

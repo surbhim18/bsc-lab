@@ -1,0 +1,19 @@
+
+Start:
+	ADD a 1
+	AND a 1
+
+	ISZ a 1
+	
+	BSA Check 0
+	Write
+	
+	Stop
+
+
+Check:
+	Read
+	BUN 0 1
+
+
+a: .data 2 0
