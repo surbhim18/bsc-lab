@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1458538882 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\gobackn\main.cpp
+	<iostream>
+	<ctime>
+	"Frame.h"
+	"Packet.h"
+
+1458534880 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\gobackn\include\frame.h
+	"Packet.h"
+
+1457930373 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\gobackn\include\packet.h
+
+1458534882 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\gobackn\src\frame.cpp
+	"Frame.h"
+
+1457930341 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\gobackn\src\packet.cpp
+	"Packet.h"
+
+1458915215 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\gobackn\gobackn.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	"Packet.h"
+	"Frame.h"
+

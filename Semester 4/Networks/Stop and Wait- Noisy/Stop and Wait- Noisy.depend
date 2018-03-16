@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1456982836 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\stop and wait- noisy\src\frame.cpp
+	"Frame.h"
+
+1456982807 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\stop and wait- noisy\include\frame.h
+	"Packet.h"
+
+1456982816 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\stop and wait- noisy\include\packet.h
+
+1456982841 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\stop and wait- noisy\src\packet.cpp
+	"Packet.h"
+
+1457329481 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\stop and wait- noisy\main.cpp
+	<iostream>
+	<ctime>
+	"Frame.h"
+	"Packet.h"
+
+1457333056 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\stop and wait- noisy\s&w-noisy.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	"Packet.h"
+	"Frame.h"
+

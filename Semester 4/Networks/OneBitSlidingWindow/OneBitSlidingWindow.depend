@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1458198439 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\onebitslidingwindow\main.cpp
+	<iostream>
+	<ctime>
+	"Frame.h"
+	"Packet.h"
+
+1458190334 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\onebitslidingwindow\include\frame.h
+	"Packet.h"
+
+1458197761 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\onebitslidingwindow\include\packet.h
+
+1458190312 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\onebitslidingwindow\src\frame.cpp
+	"Frame.h"
+
+1458197870 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\onebitslidingwindow\src\packet.cpp
+	"Packet.h"
+	<cstring>
+
+1461894905 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\onebitslidingwindow\onebitslidingwindow.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	"Packet.h"
+	"Frame.h"
+
