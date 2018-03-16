@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1427191090 source:/home/surbhi/Desktop/DS/DLL/main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"MyException.h"
+	"DLL.h"
+
+1426656770 source:/home/surbhi/Desktop/DS/DLL/src/Node.cpp
+	"Node.h"
+
+1426656734 /home/surbhi/Desktop/DS/DLL/include/Node.h
+
+1427192677 source:/home/surbhi/Desktop/DS/DLL/src/DLL.cpp
+	"DLL.h"
+	<iostream>
+	"MyException.h"
+
+1427190517 /home/surbhi/Desktop/DS/DLL/include/DLL.h
+	"Node.h"
+
+1426656824 /home/surbhi/Desktop/DS/DLL/include/MyException.h
+
+1427191984 source:/home/surbhi/Desktop/DS/DLL/src/MyException.cpp
+	<iostream>
+	<cstring>
+	"MyException.h"
+

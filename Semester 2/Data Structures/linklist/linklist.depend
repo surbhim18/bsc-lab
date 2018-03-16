@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1426087340 source:/home/surbhi/Desktop/DS/linklist/main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"MyException.h"
+	"SLL.h"
+
+1426310285 /home/surbhi/Desktop/DS/linklist/include/MyException.h
+
+1425707931 /home/surbhi/Desktop/DS/linklist/include/SLL.h
+	"Node.h"
+
+1426307343 /home/surbhi/Desktop/DS/linklist/include/Node.h
+
+1426307230 source:/home/surbhi/Desktop/DS/linklist/src/MyException.cpp
+	<iostream>
+	<cstring>
+	"MyException.h"
+
+1425657169 source:/home/surbhi/Desktop/DS/linklist/src/Node.cpp
+	"Node.h"
+
+1426087200 source:/home/surbhi/Desktop/DS/linklist/src/SLL.cpp
+	<iostream>
+	"SLL.h"
+	"MyException.h"
+
+1430913370 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\src\myexception.cpp
+	<iostream>
+	<cstring>
+	"MyException.h"
+
+1430913370 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\include\myexception.h
+
+1425657168 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\src\node.cpp
+	"Node.h"
+
+1426307342 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\include\node.h
+
+1430913333 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"MyException.h"
+	"SLL.h"
+
+1430913270 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\include\sll.h
+	"Node.h"
+
+1430913304 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\src\sll.cpp
+	<iostream>
+	"SLL.h"
+	"MyException.h"
+
+1430913449 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	"MyException.h"
+	"SLL.h"
+
+1430913370 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\include\myexception.h
+
+1430913270 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\include\sll.h
+	"Node.h"
+
+1426307342 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\include\node.h
+
+1430913370 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\src\myexception.cpp
+	<iostream>
+	<cstring>
+	"MyException.h"
+
+1425657168 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\src\node.cpp
+	"Node.h"
+
+1430913304 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\linklist\src\sll.cpp
+	<iostream>
+	"SLL.h"
+	"MyException.h"
+

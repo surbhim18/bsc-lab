@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1430035146 source:/home/surbhi/Desktop/DS/BST/main.cpp
+	<iostream>
+	"BST.h"
+
+1429803254 source:/home/surbhi/Desktop/DS/BST/src/Node.cpp
+	"Node.h"
+
+1429803178 /home/surbhi/Desktop/DS/BST/include/Node.h
+
+1430034876 source:/home/surbhi/Desktop/DS/BST/src/BST.cpp
+	"BST.h"
+	"SLL.h"
+	<iostream>
+
+1430033538 /home/surbhi/Desktop/DS/BST/include/BST.h
+	"Node.h"
+
+1429237066 source:/home/surbhi/Desktop/DS/BST/src/SLL.cpp
+	<iostream>
+	"SLL.h"
+
+1429236321 /home/surbhi/Desktop/DS/BST/include/SLL.h
+	"SLLnode.h"
+
+1429236338 /home/surbhi/Desktop/DS/BST/include/SLLnode.h
+	"Node.h"
+
+1429236369 source:/home/surbhi/Desktop/DS/BST/src/SLLnode.cpp
+	"SLLnode.h"
+
+1430035146 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\main.cpp
+	<iostream>
+	"BST.h"
+
+1430033538 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\bst.h
+	"Node.h"
+
+1429803178 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\node.h
+
+1430035660 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\bst.cpp
+	"BST.h"
+	"SLL.h"
+	<iostream>
+
+1429236320 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\sll.h
+	"SLLnode.h"
+
+1429236338 f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\sllnode.h
+	"Node.h"
+
+1429803254 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\node.cpp
+	"Node.h"
+
+1429237066 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\sll.cpp
+	<iostream>
+	"SLL.h"
+
+1429236368 source:f:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\sllnode.cpp
+	"SLLnode.h"
+
+1430035146 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\main.cpp
+	<iostream>
+	"BST.h"
+
+1430033538 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\bst.h
+	"Node.h"
+
+1429803178 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\node.h
+
+1430035660 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\bst.cpp
+	"BST.h"
+	"SLL.h"
+	<iostream>
+
+1429236320 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\sll.h
+	"SLLnode.h"
+
+1429236338 e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\include\sllnode.h
+	"Node.h"
+
+1429803254 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\node.cpp
+	"Node.h"
+
+1429237066 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\sll.cpp
+	<iostream>
+	"SLL.h"
+
+1429236368 source:e:\folders\surbhi\bsc hons cs\semester 2\data structures\ds\bst\src\sllnode.cpp
+	"SLLnode.h"
+
