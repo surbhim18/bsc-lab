@@ -1,0 +1,4 @@
+hello world
+this is Q3 of lex programs
+checking the output
+

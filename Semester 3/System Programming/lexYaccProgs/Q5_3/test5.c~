@@ -1,0 +1,11 @@
+#include <iostream>
+using namesapce std;
+int main()
+{
+int a,b,f;
+float vg;
+char g;
+a=b;
+vg=a;
+return 0;
+}   
