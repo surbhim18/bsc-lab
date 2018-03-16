@@ -11,11 +11,11 @@ c) Calculate GCD of two numbers.
 6. Write a function to find whether a given no. is Prime or not. Use the same to generate prime
 numbers less than 100.
 7. WAP to compute the factors of a given number.
-8. WAP to print the triangle of stars as follows (take number of lines from user)
-*
-***
-*****
-*******
+8. WAP to print the triangle of stars as follows (take number of lines from user)  
+*  
+***  
+*****  
+*******  
 9. Write a function that checks whether a given string is a Palindrome or not. Use this function
 to find whether the string entered by user is Palindrome or not.
 10. Write a menu driven program to perform following operations on strings (using String class
