@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1426094702 source:/home/surbhi/Desktop/DS/Stack_SLL/src/MyException.cpp
+	<iostream>
+	<cstring>
+	"MyException.h"
+
+1426094672 /home/surbhi/Desktop/DS/Stack_SLL/include/MyException.h
+
+1426094626 source:/home/surbhi/Desktop/DS/Stack_SLL/src/Node.cpp
+	"Node.h"
+
+1426094617 /home/surbhi/Desktop/DS/Stack_SLL/include/Node.h
+
+1426094773 source:/home/surbhi/Desktop/DS/Stack_SLL/src/StackSLL.cpp
+	<iostream>
+	"StackSLL.h"
+	"MyException.h"
+
+1426094810 /home/surbhi/Desktop/DS/Stack_SLL/include/StackSLL.h
+	"Node.h"
+
+1426096304 source:/home/surbhi/Desktop/DS/Stack_SLL/main.cpp
+	<iostream>
+	"StackSLL.h"
+	"MyException.h"
+	<cstdlib>
+
