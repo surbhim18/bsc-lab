@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1457592380 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\multiplepartitionmethod\main.cpp
+	<iostream>
+	"Partition.h"
+	"Process.h"
+
+1457592345 e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\multiplepartitionmethod\include\partition.h
+
+1457592368 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\multiplepartitionmethod\src\partition.cpp
+	"Partition.h"
+	<iostream>
+
+1457588460 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\multiplepartitionmethod\strategies.cpp
+	"Partition.h"
+	"Process.h"
+
+1457590308 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\multiplepartitionmethod\src\process.cpp
+	"Process.h"
+	<iostream>
+
+1457590286 e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\multiplepartitionmethod\include\process.h
+
