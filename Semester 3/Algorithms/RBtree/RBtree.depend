@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1447504652 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\main.cpp
+	<iostream>
+	<cstdlib>
+	"RBtree.h"
+
+1447504098 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\src\node.cpp
+	"Node.h"
+
+1447504058 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\include\node.h
+
+1447505136 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\src\rbtree.cpp
+	<iostream>
+	"Node.h"
+	"RBtree.h"
+
+1447502523 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\include\rbtree.h
+	"Node.h"
+
+1447575218 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\main.cpp
+	<iostream>
+	<cstdlib>
+	"RBtree.h"
+
+1447571603 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\include\rbtree.h
+	"Node.h"
+
+1447504058 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\include\node.h
+
+1447504098 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\src\node.cpp
+	"Node.h"
+
+1447576244 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rbtree\src\rbtree.cpp
+	<iostream>
+	"Node.h"
+	"RBtree.h"
+

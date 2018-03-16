@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1442556850 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rod_cut\main.cpp
+	<iostream>
+	<cstdlib>
+	"include/RodCut.h"
+
+1442552349 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rod_cut\include\rodcut.h
+
+1442556970 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\rod_cut\src\rodcut.cpp
+	<iostream>
+	"../include/RodCut.h"
+

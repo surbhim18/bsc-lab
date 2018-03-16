@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1447670521 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\main.cpp
+	<iostream>
+	"MinPQh.h"
+	<cmath>
+	<cstring>
+
+1447663751 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\src\treenode.cpp
+	<iostream>
+	"TreeNode.h"
+
+1447663728 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\include\treenode.h
+
+1447667700 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\src\minpqh.cpp
+	"MinPQh.h"
+	<iostream>
+	<climits>
+
+1447663952 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\include\minpqh.h
+	"Tree.h"
+	"Tree.h"
+
+1447671351 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\include\tree.h
+	"TreeNode.h"
+
+1447672581 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\huffmanncoding\src\tree.cpp
+	<iostream>
+	"Tree.h"
+	<cstring>
+

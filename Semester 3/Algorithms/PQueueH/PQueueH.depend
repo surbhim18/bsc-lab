@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1439639272 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\pqueueh\main.cpp
+	<iostream>
+	<cstdlib>
+	"PQueueH.h"
+
+1439639233 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\pqueueh\src\pqueueh.cpp
+	"PQueueH.h"
+	<iostream>
+	<climits>
+
+1439639075 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\pqueueh\include\pqueueh.h
+

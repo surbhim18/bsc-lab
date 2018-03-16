@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1443373331 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\main.cpp
+	<iostream>
+	"SLL.h"
+
+1443372128 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\include\sll.h
+	"Node.h"
+
+1443372276 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\include\node.h
+
+1440995700 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\src\node.cpp
+	"Node.h"
+
+1443373225 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\src\sll.cpp
+	<iostream>
+	"SLL.h"
+
+1440995700 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\src\node.cpp
+	"Node.h"
+
+1443372276 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\include\node.h
+
+1443373225 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\src\sll.cpp
+	<iostream>
+	"SLL.h"
+
+1443372128 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\include\sll.h
+	"Node.h"
+
+1447725864 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\bucketsort\main.cpp
+	<iostream>
+	"SLL.h"
+

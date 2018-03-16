@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1445136303 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamantm\src\heap.cpp
+	"Heap.h"
+	<iostream>
+	<climits>
+
+1443551904 f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamantm\include\heap.h
+
+1443551522 source:f:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamantm\main.cpp
+	<iostream>
+	"Heap.h"
+
+1445136303 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamantm\src\heap.cpp
+	"Heap.h"
+	<iostream>
+	<climits>
+
+1443551904 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamantm\include\heap.h
+
+1445138825 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamantm\main.cpp
+	<iostream>
+	<climits>
+	"Heap.h"
+

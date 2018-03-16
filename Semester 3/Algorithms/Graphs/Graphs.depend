@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1447681275 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\main.cpp
+	<iostream>
+	"SLL.h"
+	"Queue.h"
+	<climits>
+
+1447676682 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\src\node.cpp
+	"Node.h"
+
+1447676692 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\include\node.h
+
+1447680036 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\src\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1447680027 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\include\queue.h
+	"Node.h"
+
+1447681299 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\src\sll.cpp
+	<iostream>
+	"SLL.h"
+
+1447680023 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\graphs\include\sll.h
+	"Node.h"
+

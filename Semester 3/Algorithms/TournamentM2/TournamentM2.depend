@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1447699466 source:e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamentm2\src\heap.cpp
+	"Heap.h"
+	<iostream>
+	<climits>
+
+1447699459 e:\folders\surbhi\bsc hons cs\semester 3\algorithms\practical\tournamentm2\include\heap.h
+
