@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1454669725 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\main.cpp
+	<iostream>
+	"Frame.h"
+	"Packet.h"
+
+1454661898 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\src\frame.cpp
+	"Frame.h"
+
+1454662123 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\include\frame.h
+	"Packet.h"
+
+1454661842 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\include\packet.h
+
+1454661858 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\src\packet.cpp
+	"Packet.h"
+
+1454663798 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\fromto.cpp
+	<iostream>
+	"Frame.h"
+	"Packet.h"
+
+1454665606 source:e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\usp.cpp
+	<iostream>
+	<cstring>
+	"Packet.h"
+	"Frame.h"
+
+1454663770 e:\folders\surbhi\bsc hons cs\semester 4\networks\practicals\unrestrictedsimplexprotocol\fromto.cpp
+	<iostream>
+	"Frame.h"
+	"Packet.h"
+
