@@ -1,0 +1,19 @@
+/* 
+    Created on : Oct 3, 2016, 12:12:35 AM
+    Author     : surbhi
+*/
+
+p {display: inline; color: red; visibility: hidden}
+
+#heading {
+    text-align: center;
+}
+
+#formdiv{
+    width:360px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 5px 5px 5px;    
+    border-style: double;
+    border-color: turquoise;
+}
