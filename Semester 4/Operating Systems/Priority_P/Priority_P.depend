@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1455249635 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\priority_p\main.cpp
+	<iostream>
+	<cstdlib>
+	"Process.h"
+	"CirQueue.h"
+
+1455247140 e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\priority_p\include\process.h
+
+1455246881 e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\priority_p\include\cirqueue.h
+	"Process.h"
+
+1455247248 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\priority_p\src\process.cpp
+	"Process.h"
+	<iostream>
+
+1455248808 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\priority_p\src\cirqueue.cpp
+	"CirQueue.h"
+	<iostream>
+
