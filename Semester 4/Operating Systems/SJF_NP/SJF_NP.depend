@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1454830649 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\sjf_np\main.cpp
+	<iostream>
+	<cstdlib>
+	"Process.h"
+	"Queue.h"
+
+1453816724 e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\sjf_np\include\process.h
+
+1453815840 e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\sjf_np\include\queue.h
+	"Process.h"
+
+1454300574 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\sjf_np\src\process.cpp
+	"Process.h"
+	<iostream>
+
+1454829412 source:e:\folders\surbhi\bsc hons cs\semester 4\operating systems\practicals\sjf_np\src\queue.cpp
+	"Queue.h"
+	<iostream>
+
