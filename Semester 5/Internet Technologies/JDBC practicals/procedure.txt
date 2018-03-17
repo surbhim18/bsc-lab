@@ -1,0 +1,4 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `noOfRows`()
+BEGIN
+	select count(*) from Student;
+END
